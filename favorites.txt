@@ -1,3 +1,7 @@
+Favorites Movie is :
+ 3idots
+ IronMan 1,2,3
+ HarryPorter
  Favorite Food  is:
    dhosa
    briyani
